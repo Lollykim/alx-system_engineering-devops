@@ -1,0 +1,9 @@
+total 20
+drwxr-xr-x 2 root root   126 Mar  7 18:41 .
+drwxr-xr-x 7 root root   167 Mar  7 12:15 ..
+-rw-r--r-- 1 root root     0 Mar  7 13:00 0-hello
+-rwxr--r-- 1 root root    31 Mar  7 18:16 0-hello_world
+-rw-r--r-- 1 root root    37 Mar  7 17:51 0-hello_world_list.txt
+-rw------- 1 root root 12288 Mar  7 18:04 .0-hello_world.swp
+-rw-r--r-- 1 root root     0 Mar  7 18:41 listing
+-rw-r--r-- 1 root root     0 Mar  7 13:00 world
