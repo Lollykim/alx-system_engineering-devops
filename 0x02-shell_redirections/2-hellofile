@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Display the content of the /etc/passwd"
-#!/bin/bash
+cat /etc/passwd
