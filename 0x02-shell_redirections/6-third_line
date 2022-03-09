@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 lacta | tail -l
+head -n 3 my.txt | tail -n 1
