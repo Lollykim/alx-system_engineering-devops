@@ -1,0 +1,2 @@
+#!/bin/bash
+heach /etc/ssh./sshd_config -n A
